@@ -1,0 +1,1 @@
+#NOTE: When generating the C code, if a function is private, a declaration should be generated at the top of the file since it'll be a static function
