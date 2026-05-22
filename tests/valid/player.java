@@ -13,7 +13,7 @@ class Player {
         this.y = this.y + y;
     }
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         Player p = new Player(100, 130);
         p.move(20, -30);
     }
